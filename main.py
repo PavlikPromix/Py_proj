@@ -1,2 +1,2 @@
 for i in range(15):
-    print(i)
+    print('Num is {}'.format(i))
